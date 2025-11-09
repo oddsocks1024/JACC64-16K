@@ -1,11 +1,13 @@
 # JACC64-16K
+![JACC64-16K](images/1.jpg)
+![JACC64-16K](images/3.jpg)
 
 ## Description
 JACC64-16K: Just Another Commodore Cartridge.
 
 A simple ROM cartridge for the Commodore 64 which takes a single 16K ROM image in an EPROM/EEPROM.
 
-Additional Features:
+**Additional Features**
 * Power LED
 * Reset Switch
 
@@ -13,9 +15,9 @@ Additional Features:
 
 | Qty | Component                              |
 |:---:|----------------------------------------|
-| 1   | 5mm LED (D3)                           |
+| 1   | 5mm LED                                |
 | 1   | 6mm Tactile Push Button                |
-| 1   | 1 x 330Ω Axial Resistor - ¼ watt (LED) |
+| 1   | 330Ω Axial Resistor - ¼ watt (LED)     |
 | 1   | 10KΩ Axial Resistor - ¼ watt           |
 | 2   | 1N4148 Diodes                          |
 | 1   | 100nF Ceramic Capacitor                |
